@@ -11,12 +11,6 @@ import com.service.ShoppingCart;
 
 public class ProgramRunner {
 
-	static String product;
-
-	public void searchProducts() {
-
-	}
-
 	public static void main(String[] args) {
 		Cart cart = new Cart();
 		Inventory inventory = new Inventory();
